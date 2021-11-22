@@ -9,6 +9,7 @@
     <title>TeamUp</title>
 </head>
 <body>
+    
     <header>
             
             <div class="navbar">
